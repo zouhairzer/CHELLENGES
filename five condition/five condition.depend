@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694764943 source:c:\users\youcode\desktop\chellenges\five condition\main.c
+	<stdio.h>
+	<stdlib.h>
+
