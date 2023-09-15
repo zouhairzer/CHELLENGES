@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694766616 source:c:\users\youcode\desktop\chellenges\six condition\main.c
+	<stdio.h>
+	<stdlib.h>
+
