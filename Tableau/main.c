@@ -16,7 +16,8 @@
 
           if(Min>Tableu[i])
             Min = Tableu[i];
-          else{Max = Tableu[i];}
+          else if(Max<Tableu[i])
+            Max = Tableu[i];
 
         }
         printf("le Minimum est %d\n", Min);
